@@ -1,0 +1,8 @@
+#alert{
+    display:none;
+    position: absolute;
+    background-color: chartreuse;
+    font-size: 30px;
+    left: 30%;
+    top: 20%;
+}
